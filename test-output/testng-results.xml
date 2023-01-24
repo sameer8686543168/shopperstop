@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-23T11:19:10 IST" name="Default suite" finished-at="2023-01-23T11:19:57 IST" duration-ms="46639">
+    <groups>
+    </groups>
+    <test started-at="2023-01-23T11:19:10 IST" name="Default test" finished-at="2023-01-23T11:19:57 IST" duration-ms="46639">
+      <class name="Myntra.com.myntra.HomepageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Myntra.com.myntra.HomepageTest@6da21078]" started-at="2023-01-23T11:19:10 IST" name="setup" finished-at="2023-01-23T11:19:36 IST" duration-ms="25181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:1, instance:Myntra.com.myntra.HomepageTest@6da21078]" started-at="2023-01-23T11:19:36 IST" name="test" finished-at="2023-01-23T11:19:36 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="testhomepagetitle()[pri:2, instance:Myntra.com.myntra.HomepageTest@6da21078]" started-at="2023-01-23T11:19:36 IST" name="testhomepagetitle" finished-at="2023-01-23T11:19:36 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testhomepagetitle -->
+        <test-method signature="testdosearchmen()[pri:3, instance:Myntra.com.myntra.HomepageTest@6da21078]" started-at="2023-01-23T11:19:36 IST" name="testdosearchmen" finished-at="2023-01-23T11:19:45 IST" duration-ms="8918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdosearchmen -->
+        <test-method signature="testdosearchshirts()[pri:4, instance:Myntra.com.myntra.HomepageTest@6da21078]" started-at="2023-01-23T11:19:45 IST" name="testdosearchshirts" finished-at="2023-01-23T11:19:55 IST" duration-ms="10542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdosearchshirts -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Myntra.com.myntra.HomepageTest@6da21078]" started-at="2023-01-23T11:19:55 IST" name="teardown" finished-at="2023-01-23T11:19:57 IST" duration-ms="1654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Myntra.com.myntra.HomepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
